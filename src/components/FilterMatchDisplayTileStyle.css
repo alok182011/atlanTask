@@ -1,0 +1,10 @@
+.filtermatchdisplaytile-info {
+  display: flex;
+  text-align: center;
+  background-color: white;
+  border: 1px solid gray;
+  padding: 10px;
+}
+.filtermatchdisplaytile-infoitem {
+  width: 231px;
+}

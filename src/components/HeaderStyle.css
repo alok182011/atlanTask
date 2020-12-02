@@ -1,0 +1,24 @@
+.header-container {
+  display: flex;
+  background-color: #373b69;
+  justify-content: space-around;
+  color: white;
+  height: 80px;
+}
+
+.header-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-title-link {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.header-link {
+  text-decoration: none;
+  color: aliceblue;
+  margin-left: 20px;
+}

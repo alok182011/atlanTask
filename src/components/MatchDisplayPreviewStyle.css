@@ -1,0 +1,10 @@
+.matchdisplaypreview-title {
+  display: flex;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+.matchdisplaypreview-titleitem {
+  width: 231px;
+}

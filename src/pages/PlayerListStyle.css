@@ -1,0 +1,13 @@
+.playerlist-searchbar {
+  margin-top: 50px;
+  width: 300px;
+  height: 30px;
+  display: block;
+  font-size: 20px;
+  background-color: #22254b;
+  border: 3px solid #373b69;
+  color: white;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
